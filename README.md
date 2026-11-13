@@ -1,5 +1,3 @@
-# sayin-privacy-policy
-sayin's privacy policy 
 # Sayin Privacy Policy
 
 **Last Updated:** November 13, 2026
